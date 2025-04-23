@@ -1,0 +1,24 @@
+body {
+    background-color: yellow;
+}
+
+h1 {
+    color:crimson;
+}
+p.reuna {
+    color: blue;
+    border: 2px solid black;
+}
+
+.musta {
+    color:black;
+}
+
+#punainen {
+    color:brown;
+}
+
+.reuna {
+  
+    border: 2px solid black;
+}
